@@ -2,8 +2,8 @@ package StringsPrograms;
 
 import java.util.Scanner;
 
-// Input -->
-// Output -->
+// Input -->  pepCODinG
+// Output --> PEPcodINg
 public class ToggleString {
     public static String toggleString(String str){
         StringBuilder sb = new StringBuilder(str);
